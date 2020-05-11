@@ -10,15 +10,10 @@ h1 {
   color: #ff0000;
   text-align: center;
 }
-
-div{
-  font-size: 72;
-  font-family: Hacen Tunisia Bd;
-  color: Black;
+div>h2{
+  border: 2px;
+  background-color: maroon;
   text-align: right;
-  position: relative;
-  background-color: red;
-
 }
 p {  
   background-color: grey;

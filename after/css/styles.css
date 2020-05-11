@@ -1,0 +1,35 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: 'Oxygen', sans-serif;
+}
+.navbar {
+	background-color: #f6b319;
+	border-radius:0;
+	border: 0;
+}
+#logo-img{
+	background: url('../images/logo-image.jpg') no-repeat;
+	width: 200px;
+	height: 100px;
+	margin: 10px 15px 10px 0;
+}
+#phone-numbers div {
+	color: #E7E7E7;
+	margin-top: 10px;
+}
+#navbarSupportedContent a {
+	float: right;
+}
+.nav-item{
+	color: #f6b319;
+}
+.nav-item  a:hover,a:active{
+	background: #E7E7E7;
+	color: #61122f;
+}
+.navbar-brand > div , a:hover, a:active{
+	clear: both;
+	text-decoration: none;
+}
